@@ -1,4 +1,4 @@
-👋 Hi, I'm Friday Joshua — a passionate Software Engineer, Tech Educator, Digital Marketer, and UI/UX Designer based in Nigeria.
+👋 Hi, I'm Friday Joshua — a passionate Software Engineer, Tech Educator, Digital Marketer, and UI/UX Designer.
 
 💻 I build scalable web applications with modern tech stacks like Next.js, Tailwind CSS, and Supabase, and I’m deeply committed to clean code, intuitive design, and impactful user experiences.
 
