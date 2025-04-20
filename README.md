@@ -1,18 +1,18 @@
-👋 Hi, I'm Friday Joshua — a passionate Software Engineer, Tech Educator, Digital Marketer, and UI/UX Designer.
+👋 Hi there! I'm **Friday Joshua** — a passionate **Software Engineer**, **Tech Educator**, **Digital Marketer**, and **UI/UX Designer**.
 
-💻 I build scalable web applications with modern tech stacks like Next.js, Tailwind CSS, and Supabase, and I’m deeply committed to clean code, intuitive design, and impactful user experiences.
+### 🛠️ Tech Stack:
+## Programming Languages
+`TypeScript` | `Python` | `PHP` | `Golang` | `Dart`| `Kotlin`
 
-📚 As a tech educator, I love simplifying complex concepts and empowering aspiring developers through hands-on projects and community-driven learning.
+## Frameworks
+`React.js` | `Next.js` | `Laravel` | `Flask` | `Fiber` | `Ktor` | `React Native` | `Flutter` | `Electron.js`
 
-📈 I blend tech and marketing to help businesses grow with smart, data-driven digital strategies.
+## Databases and Storages
+`MySQL` | `PostgreSQL` | `MongoDB` | `DynamoDB` | `Amazon S3`
 
-🎨 Whether it’s crafting beautiful UIs or architecting robust backends, I’m always exploring the sweet spot between functionality and design.
-
-🚀 Currently working on a SaaS platform to help junior developers build real-world projects and level up their skills.
-
-Let's connect and collaborate! ⚡
-
-<!---
-friday4code/friday4code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Let’s connect:
+- **Website**: https://fj4lio.vercel.app
+- **Facebook**: [https://web.facebook.com/friday.joshua.5891/]
+- **Instagram**: [https://www.instagram.com/fridayjoshua.insta/]
+- **WhatsApp**: [https://wa.me/message/PWLERQI65JZKF1]
+- **Twitter**: [https://x.com/FridayJosh65162]
