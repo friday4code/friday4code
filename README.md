@@ -1,4 +1,4 @@
-👋 Hi there! I'm **Friday Joshua** — a passionate **Software Engineer**, **Tech Educator**, **Digital Marketer**, and **UI/UX Designer**.
+👋 Hi there! I'm **##Friday Joshua##** — a passionate **Software Engineer**, **Tech Educator**, **Digital Marketer**, and **UI/UX Designer**.
 
 ### 🛠️ Tech Stack:
 ## Programming Languages
@@ -12,7 +12,7 @@
 
 ### 📫 Let’s connect:
 - **Website**: https://fj4lio.vercel.app
-- **Facebook**: [https://web.facebook.com/friday.joshua.5891/]
-- **Instagram**: [https://www.instagram.com/fridayjoshua.insta/]
-- **WhatsApp**: [https://wa.me/message/PWLERQI65JZKF1]
-- **Twitter**: [https://x.com/FridayJosh65162]
+- **Facebook**: https://web.facebook.com/friday.joshua.5891/
+- **Instagram**: https://www.instagram.com/fridayjoshua.insta/
+- **WhatsApp**: https://wa.me/message/PWLERQI65JZKF1
+- **Twitter**: https://x.com/FridayJosh65162
